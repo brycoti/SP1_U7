@@ -1,0 +1,17 @@
+{
+    "name": "bryan/nivel1",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bryan\\Nivel1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brycoti",
+            "email": "bryancozartitos@gmail.com"
+        }
+    ]
+}
